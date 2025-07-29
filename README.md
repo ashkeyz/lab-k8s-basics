@@ -2,6 +2,8 @@
 
 Ce lab vous guide pas à pas dans la découverte des concepts de base de Kubernetes à l'aide de **Minikube**, dans un environnement local ou cloud (GitHub Codespaces, Gitpod, etc.).
 
+![Texte alternatif](./images/kube.png)
+
 ---
 
 ## ⚙️ Prérequis
